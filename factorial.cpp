@@ -9,6 +9,7 @@ void main()
   for(i = 1; i<=n; i++)
   {
     f = f*i;
+    bfnhgmhg;
   }
   cout<<"factorial of "<<n<<" is"<<f;
   getch();
