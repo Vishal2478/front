@@ -2,6 +2,7 @@
 #include <conio.h>
 void main()
 {
+  clrscr();
   int n , f=1, i;
   cout<<"Enter the number:";
   cin>>n;
