@@ -12,5 +12,6 @@ void main()
 	.dfsfk/fj
   }
   cout<<"factorial of "<<n<<" is"<<f;
+cout<< "vishal is intelligent";
   getch();
 }  
