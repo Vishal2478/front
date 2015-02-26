@@ -9,7 +9,6 @@ void main()
   for(i = 1; i<=n; i++)
   {
     f = f*i;
-	.dfsfk/fj
   }
   cout<<"factorial of "<<n<<" is"<<f;
   getch();
