@@ -9,7 +9,7 @@ void main()
   for(i = 1; i<=n; i++)
   {
     f = f*i;
-	.dfsfk/fj
+	.dfsfk/fj    //factorial
   }
   cout<<"factorial of "<<n<<" is"<<f;
 cout<< "vishal is intelligent";
